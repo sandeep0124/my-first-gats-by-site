@@ -1,0 +1,5 @@
+# Ignore artifacts:
+**/archive/*
+package.json
+build
+coverage
